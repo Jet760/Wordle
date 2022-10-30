@@ -1,0 +1,21 @@
+(2022-05-18) Jessica the Creator guessed 'BEEFY' after 1 tries. Guesses:['beefy']
+(2022-05-19) Scott guessed 'SKIRT' after 3 tries. Guesses:['start', 'smart', 'skirt'] Cheat Mode: False
+(2022-05-19) TEST guessed 'SINCE' after 1 tries. Guesses:['since'] Cheat Mode: False
+(2022-05-19) TEST guessed 'FLOAT' after 1 tries. Guesses:['float'] Cheat Mode: True
+(2022-05-19) TEST guessed 'EATEN' after 3 tries. Guesses:['crane', 'needy', 'eaten'] Cheat Mode: False
+(2022-05-19) Jess guessed 'SAPPY' after 5 tries. Guesses:['crane', 'jaunt', 'wakes', 'sames', 'sappy'] Cheat Mode: False
+(2022-05-19) TEST guessed 'ISLET' after 6 tries. Guesses:['moron', 'crane', 'ergot', 'beset', 'sweet', 'moron'] Cheat Mode: False
+(2022-05-25) TEST guessed 'PIGGY' after 6 tries. Guesses:['moron', 'moron', 'moron', 'moron', 'moron', 'moron'] Cheat Mode: False
+(2022-05-25) TEST failed to guess 'PADDY'. Guesses:['moron', 'moron', 'moron', 'moron', 'moron', 'moron'] Cheat Mode: False
+(2022-05-25) Raf failed to guess 'BANJO'. Guesses:['crane', 'cloud', 'night', 'atone', 'outer', 'loony'] Cheat Mode: False
+(2022-05-25) Raf!! guessed 'VAPOR' after 4 tries. Guesses:['venom', 'nines', 'rores', 'vapor'] Cheat Mode: True
+(2022-05-25) TEST failed to guess 'STEEP'. Guesses:['moron', 'moron', 'moron', 'moron', 'moron', 'moron'] Cheat Mode: True
+(2022-05-25) Jess guessed 'STONY' after 6 tries. Guesses:['crane', 'prone', 'stone', 'stonk', 'stond', 'stony'] Cheat Mode: False
+(2022-05-25) Jess guessed 'BRIAR' after 6 tries. Guesses:['crane', 'trial', 'triad', 'arias', 'friar', 'briar'] Cheat Mode: False
+(2022-05-25) Jess guessed 'SULKY' after 5 tries. Guesses:['crane', 'paint', 'would', 'quill', 'sulky'] Cheat Mode: False
+(2022-05-25) Jess guessed 'LURCH' after 6 tries. Guesses:['crane', 'rocky', 'sleep', 'moron', 'lucky', 'lurch'] Cheat Mode: False
+(2022-06-07) Jess guessed 'CHEST' after 5 tries. Guesses:['moron', 'crane', 'chill', 'chess', 'chest'] Cheat Mode: False
+(2022-06-07) Jess failed to guess 'GAMMA'. Guesses:['moron', 'chest', 'paste', 'nails', 'waste', 'barge'] Cheat Mode: False
+(2022-06-07) Jess failed to guess 'FLING'. Guesses:['moron', 'night', 'ingot', 'bring', 'aging', 'dying'] Cheat Mode: False
+(2022-10-30) Jess failed to guess 'SPERM'. Guesses:['spoon', 'space', 'spend', 'speed', 'spelt', 'speck'] Cheat Mode: False
+(2022-10-30) Jess guessed 'ELEGY' after 4 tries. Guesses:['flare', 'flute', 'sleep', 'elegy'] Cheat Mode: False
